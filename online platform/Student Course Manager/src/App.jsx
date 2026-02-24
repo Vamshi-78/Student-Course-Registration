@@ -7,7 +7,7 @@ import RoleSelect from "./pages/RoleSelect";
 import StudentDashboard from "./pages/StudentDashboard";
 import AdminDashboard from "./pages/AdminDashboard";
 import Courses from "./pages/Courses";
-import Timetable from "./pages/TimeTable";
+import Timetable from "./pages/Timetable";
 import Profile from "./pages/Profile";
 import ManageCourses from "./pages/ManageCourses";
 import Help from "./pages/Help";
